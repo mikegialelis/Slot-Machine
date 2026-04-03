@@ -1,0 +1,11 @@
+C:\Users\yetan\source\repos\Slot machine\Slot machine\bin\Debug\Slot machine.exe.config
+C:\Users\yetan\source\repos\Slot machine\Slot machine\bin\Debug\Slot machine.exe
+C:\Users\yetan\source\repos\Slot machine\Slot machine\bin\Debug\Slot machine.pdb
+C:\Users\yetan\source\repos\Slot machine\Slot machine\obj\Debug\Slot machine.csprojResolveAssemblyReference.cache
+C:\Users\yetan\source\repos\Slot machine\Slot machine\obj\Debug\Slot_machine.Form1.resources
+C:\Users\yetan\source\repos\Slot machine\Slot machine\obj\Debug\Slot_machine.Form2.resources
+C:\Users\yetan\source\repos\Slot machine\Slot machine\obj\Debug\Slot_machine.Properties.Resources.resources
+C:\Users\yetan\source\repos\Slot machine\Slot machine\obj\Debug\Slot machine.csproj.GenerateResource.Cache
+C:\Users\yetan\source\repos\Slot machine\Slot machine\obj\Debug\Slot machine.csproj.CoreCompileInputs.cache
+C:\Users\yetan\source\repos\Slot machine\Slot machine\obj\Debug\Slot machine.exe
+C:\Users\yetan\source\repos\Slot machine\Slot machine\obj\Debug\Slot machine.pdb
