@@ -69,7 +69,7 @@ The application uses **Windows Forms** and includes:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/mikegialelis/Slot-Machine
+git clone https://github.com/mikegialelis/Slot-Machine.git
 ```
 2. Open the project in Visual Studio
 3. Place the required fruit images in the project folder:
